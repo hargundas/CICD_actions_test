@@ -38,5 +38,5 @@ jobs:
         tags: latest
         registry: docker.io
         dockerfile: dockerFile
-        username: ${{ secrets.DOCKER_USERNAME}}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: hargundas
+        password: Precinct.01
